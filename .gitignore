@@ -57,3 +57,10 @@ test2.py
 /backup.json
 .idea
 /.vscode
+
+
+# Chris R stuff
+*.py~
+evohome_backup*.json
+evohome_log.csv
+
