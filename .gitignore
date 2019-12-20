@@ -8,6 +8,7 @@ test.py
 
 # Distribution / packaging
 .Python
+venv/
 env/
 bin/
 build/
@@ -57,7 +58,8 @@ test2.py
 /backup.json
 .idea
 /.vscode
-
+.gitignore.swp
+test-reports/junit.xml
 
 # Chris R stuff
 *.py~
